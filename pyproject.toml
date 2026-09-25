@@ -1,0 +1,11 @@
+[project]
+name = "agenticappbuilding"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "langchain-openai>=1.6.6",
+    "langgraph>=1.2.12",
+    "python-dotenv>=1.2.3",
+]
